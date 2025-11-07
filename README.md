@@ -22,7 +22,7 @@ Proyek ini adalah implementasi dari 6 poin soal UTS, yang mencakup:
 1. Desain Splash Screen: Alur splash screen yang canggih dengan deteksi lokasi (GPS) untuk menampilkan bendera dan bahasa (mendukung 4 bahasa: 🇮🇩, 🇺🇸, 🇨🇳, 🇯🇵).
 
 2. Storyboard: Alur cerita pengguna (user flow) lengkap dalam 7 frame.
-(Storyboard_.pdf)
+Storyboard_catatan keuangan.png
 
 3. Mockup (Wireframe): Sketsa kasar (lo-fi) tata letak aplikasi.
 
